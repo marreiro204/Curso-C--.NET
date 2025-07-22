@@ -1,0 +1,14 @@
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\bin\Debug\net9.0\aula11.exe
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\bin\Debug\net9.0\aula11.deps.json
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\bin\Debug\net9.0\aula11.runtimeconfig.json
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\bin\Debug\net9.0\aula11.dll
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\bin\Debug\net9.0\aula11.pdb
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\obj\Debug\net9.0\aula11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\obj\Debug\net9.0\aula11.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\obj\Debug\net9.0\aula11.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\obj\Debug\net9.0\aula11.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\obj\Debug\net9.0\aula11.dll
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\obj\Debug\net9.0\refint\aula11.dll
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\obj\Debug\net9.0\aula11.pdb
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\obj\Debug\net9.0\aula11.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\curso_dotnet\aula11\obj\Debug\net9.0\ref\aula11.dll
